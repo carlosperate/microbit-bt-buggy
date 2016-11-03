@@ -1,0 +1,11 @@
+{
+  "name": "microbit-bt-buggy",
+  "version": "0.0.1",
+  "description": "The micro:bit C++ application to control the kitronic buggy from micro:bit Blue.",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
